@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.LinearSearch;
 
 public class LinearSearch2 {
 

@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.LinearSearch;
 // Using Enhanced for loop
 public class LinearSearch1 {
     public static void main(String[] args) {

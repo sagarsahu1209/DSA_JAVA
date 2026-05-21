@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.LinearSearch;
 // using Function only
 public class LinearSearch {
     public static void main(String[] args) {

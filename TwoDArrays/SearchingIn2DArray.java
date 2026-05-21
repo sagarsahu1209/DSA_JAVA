@@ -27,7 +27,7 @@ public class SearchingIn2DArray {
        /* col < a[row].length;:
             This is crucial for jagged arrays.
             a[row].length checks the exact length of the current row.
-            If row is 0, it limits the loop to 3 columns.
+            If row is 0, it limits the loop to 3 columns.';
             If row is 3, it dynamically expands the limit to 5 columns.*/
 
         for(int col=0;col< a[row].length;col++){

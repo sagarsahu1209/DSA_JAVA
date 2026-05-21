@@ -1,6 +1,6 @@
 package Arrays;
 
-public class maxItem {
+public class  maxItem {
     public static void main(String[] args) {
         int[] arr = {1, 672, 37, 14, 56,87};
         max(arr); //{0,  1 , 2 ,  3,  4, 5} -> index of  array
